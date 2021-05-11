@@ -1,2 +1,2 @@
 # myApp
-My first app
+My first React app 
